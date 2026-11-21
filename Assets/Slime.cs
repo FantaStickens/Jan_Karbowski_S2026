@@ -56,7 +56,7 @@ public class Slime : MonoBehaviour
                 return high = i;
             }
         }
-
+        return high;
     }
 
 
